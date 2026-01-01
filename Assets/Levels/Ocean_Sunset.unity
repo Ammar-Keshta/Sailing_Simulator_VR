@@ -137,7 +137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1332106598881248874, guid: 8d47d35dba98d2f44a22d5b2f5b5a880, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.021774989
+      value: -0.019706586
       objectReference: {fileID: 0}
     - target: {fileID: 1332106598881248874, guid: 8d47d35dba98d2f44a22d5b2f5b5a880, type: 3}
       propertyPath: m_LocalPosition.z
@@ -469,7 +469,7 @@ MonoBehaviour:
   m_ShadowResolution:
     m_Override: 512
     m_UseOverride: 0
-    m_Level: 2
+    m_Level: 1
   m_ShadowDimmer: 1
   m_VolumetricShadowDimmer: 1
   m_ShadowFadeDistance: 10000
@@ -1398,7 +1398,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1305127913
 Transform:
   m_ObjectHideFlags: 0
@@ -1861,7 +1861,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2121412024
 Transform:
   m_ObjectHideFlags: 0
